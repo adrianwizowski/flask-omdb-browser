@@ -16,3 +16,4 @@ Also, `FLASK_APP` variable should be set in `.env` file, ex:
     make run - runs app locally
     make test - runs tests locally
     make docker - runs dockerized app
+    make lint - runs pylint on flask_app dir
