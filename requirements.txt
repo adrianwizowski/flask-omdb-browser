@@ -1,0 +1,6 @@
+Flask==1.1.1
+omdb==0.10.1
+python-dotenv==0.10.5
+pytest==5.3.4
+pytest-envvars==1.0.0
+pylint==2.4.4
